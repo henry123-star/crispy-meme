@@ -1,0 +1,12 @@
+/your-bot-project
+├── main.py (or index.js)
+├── requirements.txt (or package.json)
+├── config.py
+├── handlers/
+│   ├── start_handler.py
+│   ├── verification_handlers.py
+│   └── social_media_verification.py
+└── utils/
+    ├── wallet_validation.py
+    └── message_templates.py
+    username:crispy-meme
